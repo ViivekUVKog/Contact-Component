@@ -1,3 +1,8 @@
+1) npm install --save react@16.13.0 react-dom@16.13.0
+2) npm i react-phone-input-2
+3) npm i styled-components
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
